@@ -1,3 +1,3 @@
-# hello-world
-Just for testing
-This is second test
+# Print Hello World in C Language
+
+This program prints "Hello World!" on the terminal.
